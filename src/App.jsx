@@ -1,3 +1,5 @@
+import Navbar from "./layouts/Navbar"
+
  
  
  
@@ -6,7 +8,7 @@ function App() {
 
   return (
     <>
-       <h1>hello </h1>
+     <Navbar />
     </>
   )
 }
